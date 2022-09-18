@@ -1,4 +1,4 @@
-![MasterHead](https://ibb.co/Ph27qX3)
+![MasterHead](https://ibb.co/Ph27qX3)]
 
 <h1 align="center">Hi 👋, I'm Muhammad Rehan</h1>
 
