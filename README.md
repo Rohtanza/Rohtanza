@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif]
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Rehan</h1>
 <h3 align="center">A UI/UX developer & Software Engineering Student.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif>
