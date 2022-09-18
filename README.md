@@ -1,10 +1,9 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu7Ub98CumTtZBbESOYOiV7EK7LkJAbcd34w&usqp=CAU)]
+
 
 <h1 align="center">Hi 👋, I'm Muhammad Rehan</h1>
 
 <h3 align="center">A UI/UX developer & Sophomore SE Student at Fast Nuces.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://linustechtips.com/uploads/monthly_2020_06/pp2.thumb.gif.bcce1b7d64c9ed9b1251efce09ade6e8.gif"> 
 
 - 🌱 I’m currently learning **Cs50, Introduction to algorithm by MIT and Duke University's C specialization.** 
 
