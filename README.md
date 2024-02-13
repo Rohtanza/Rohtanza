@@ -10,19 +10,16 @@ currently diving into **Rust**, **DevOps**, **Cloud**, and **AI**. **2X Gold Med
 
 - 📫 How to reach me **rohtanza@gmail.com**
 
-- <hr>
+
+<hr>
 <h1 align="center">Socials</h1>
 <hr>
 
 <div align="center">
-    <a href="www.linkedin.com/in/rohtanza" target="_blank"><img alt="LinkedIn"
-            src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/rohtanza" target="_blank"><img alt="Github"
-            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="mailto:rohtanza@gmail.com"><img alt="Gmail"
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        <a href="https://rohtanza.github.io/"><img alt="Gmail"
-                src="    https://img.shields.io/badge/Personal%20Blog-grey?style=for-the-badge" />
+<a  href="www.linkedin.com/in/rohtanza" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/rohtanza" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:rohtanza@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://rohtanza.github.io/"><img  alt="Blog" src="https://img.shields.io/badge/Personal%20Blog20B2AA?style=for-the-badge"/>
 </div>
 <hr>
 
