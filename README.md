@@ -1,15 +1,30 @@
 
 
-<h1 align="center">Hi 👋, I'm Muhammad Rehan</h1>
+<h1 align="center">Hi 👋,</h1>
 
-<h3 align="center">A FrontEnd developer & SE Student at Fast Nuces.</h3>
-
-
-- 🌱 I’m currently learning **Rust, Tauri framework, DevOps And Cloud.** 
-
-- 💬 Ask me about **Andriod Rooting, Apple devices jailbreak and hackintosh** 
+I'm **Rehan** aka **Rohtanza**, currently in my 4th semester of **Software Engineering** at FAST-NUCES, and **Co-Lead** at **Colab Research Lab**. I'm
+currently diving into **Rust**, **DevOps**, **Cloud**, and **AI**. **2X Gold Medalist** 🥇, 2 years of experience as a
+**UI/UX** **Developer**. Additionally, I've served as a **4X** **Teaching** **Assistant** for courses like **Programming Fundamentals**,
+**Object-Oriented Programming**, and **Data Structures**. 🐧 Proud Arch Linux user, with some shady interests including **Android**
+**Rooting**, **Apple** **jailbreaking**, and **Hackintosh** setups.
 
 - 📫 How to reach me **rohtanza@gmail.com**
+
+- <hr>
+<h1 align="center">Socials</h1>
+<hr>
+
+<div align="center">
+    <a href="www.linkedin.com/in/rohtanza" target="_blank"><img alt="LinkedIn"
+            src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/rohtanza" target="_blank"><img alt="Github"
+            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:rohtanza@gmail.com"><img alt="Gmail"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <a href="https://rohtanza.github.io/"><img alt="Gmail"
+                src="    https://img.shields.io/badge/Personal%20Blog-grey?style=for-the-badge" />
+</div>
+<hr>
 
 <p align="left">
 
