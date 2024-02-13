@@ -22,6 +22,19 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,cmake,html,css,bootstrap,tailwind,sass,js,git,linux,tauri,rust," />
   </a>
 </p>
+#  🐼 GitInsight  
+<table>
+  <tr>
+<td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=Rohtanza&show_icons=true&theme=dark" />
+    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohtanza&layout=compact&theme=dark" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohtanza&layout=compact&theme=dark" alt="Rohtanza"/></p>
+  </div>
+
+ </div>
 
 
 
