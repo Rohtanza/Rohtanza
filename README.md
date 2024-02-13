@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Rehan</h1>
 
-<h3 align="center">A UI/UX developer & Sophomore SE Student at Fast Nuces.</h3>
+<h3 align="center">A UI/UX developer & SE Student at Fast Nuces.</h3>
 
 
-- 🌱 I’m currently learning **Cs50, Introduction to algorithm by MIT and Duke University's C specialization.** 
+- 🌱 I’m currently learning **Rust, Tauri framework, DevOps And Cloud.** 
 
 - 💬 Ask me about **Andriod Rooting, Apple devices jailbreak and hackintosh** 
 
