@@ -34,7 +34,7 @@ currently diving into **Rust**, **DevOps**, **Cloud**, and **AI**. **2X Gold Med
     <img src="https://skillicons.dev/icons?i=c,cpp,cmake,html,css,bootstrap,tailwind,sass,js,git,linux,tauri,rust," />
   </a>
 </p>
-# 🐼 GitInsight  
+<h1 align="center">🐼 GitInsight  </h1>
 <table>
   <tr>
 <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=Rohtanza&show_icons=true&theme=dark" />
