@@ -3,7 +3,7 @@
 <h1 align="center">Welcome - مع السلامة 👋
 </h1>
 
-I'm **Rehan** aka **Rohtanza**, currently in my 4th semester of **Software Engineering** at FAST-NUCES, and **Co-Lead** at **Colab Research Lab**. I'm
+I'm **Rehan** aka **Rohtanza**, currently in my 4th semester of **Software Engineering** at FAST-NUCES,I am **AWS Cloud Club Captain** ☁️ and **Lead** at **Colab Research Lab**. I'm
 currently diving into **Rust**, **DevOps**, **Cloud**, and **AI**. **2X Gold Medalist** 🥇, 2 years of experience as a
 **UI/UX** **Developer**. Additionally, I've served as a **4X** **Teaching** **Assistant** for courses like **Programming Fundamentals**,
 **Object-Oriented Programming**, and **Data Structures**. 🐧 Proud Arch Linux user, with some shady interests including **Android**
@@ -47,41 +47,3 @@ currently diving into **Rust**, **DevOps**, **Cloud**, and **AI**. **2X Gold Med
   </div>
 
  </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
