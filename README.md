@@ -9,7 +9,7 @@ currently diving into **Rust**, **DevOps**, **Cloud**, and **AI**. **2X Gold Med
 **Object-Oriented Programming**, and **Data Structures**. 🐧 Proud Arch Linux user, with some shady interests including **Android**
 **Rooting**, **Apple** **jailbreaking**, and **Hackintosh** setups.
 
-
+Currently Working on my FYP3, if you know, you know 😉
 
 
 <hr>
